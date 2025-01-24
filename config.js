@@ -12,7 +12,9 @@ module.exports = {
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
   activityName: "/help", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
-  SupportServer: "https://discord.gg/xQF9f9yUEM",
+  activityName: "/play", 
+  activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
+  SupportServer: "",
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
