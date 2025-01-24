@@ -10,8 +10,6 @@ module.exports = {
   embedColor: "#1db954",
   activityName: "YouTube Music", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
-  activityName: "/help", 
-  activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
   activityName: "/play", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
   SupportServer: "",
