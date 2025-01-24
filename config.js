@@ -9,7 +9,7 @@ module.exports = {
   commandsDir: './commands',  
   embedColor: "#1db954",
   activityName: "YouTube Music", 
-  activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
+  activityType: "WATCHING",  // Available activity types : LISTENING , PLAYING
   activityName: "/play", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
   SupportServer: "",
